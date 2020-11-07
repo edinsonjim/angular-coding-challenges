@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-coding-challenges"
+    }
+  },
+  "defaultProject": "angular-coding-challenges",
+  "cli": {
+    "analytics": false
+  }
 }
